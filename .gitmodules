@@ -1,0 +1,4 @@
+[submodule "odoo-argentina-ee"]
+	path = odoo-argentina-ee
+	url = git@github.com:ingadhoc/odoo-argentina-ee.git
+	branch = 13.0
