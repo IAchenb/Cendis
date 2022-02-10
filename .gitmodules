@@ -10,3 +10,7 @@
 	path = account-payment
 	url = git@github.com:ingadhoc/account-payment.git
 	branch = 13.0
+[submodule "argentina-sale"]
+	path = argentina-sale
+	url = git@github.com:ingadhoc/argentina-sale.git
+	branch = 13.0
