@@ -2,3 +2,7 @@
 	path = odoo-argentina-ee
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
 	branch = 13.0
+[submodule "odoo-argentina"]
+	path = odoo-argentina
+	url = git@github.com:ingadhoc/odoo-argentina.git
+	branch = 13.0
