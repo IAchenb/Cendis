@@ -22,3 +22,7 @@
 	path = ing_adhoc/account-payment
 	url = https://github.com/ingadhoc/account-payment.git
 	branch = 16.0
+[submodule "ing_adhoc/stock"]
+	path = ing_adhoc/stock
+	url = https://github.com/ingadhoc/stock.git
+	branch = 16.0
