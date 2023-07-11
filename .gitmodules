@@ -10,3 +10,7 @@
 	path = ing_adhoc/argentina-sale
 	url = https://github.com/ingadhoc/argentina-sale.git
 	branch = 16.0
+[submodule "ing_adhoc/account-invoicing"]
+	path = ing_adhoc/account-invoicing
+	url = https://github.com/ingadhoc/account-invoicing.git
+	branch = 16.0
